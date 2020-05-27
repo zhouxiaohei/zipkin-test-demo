@@ -8,6 +8,7 @@
         <module>zipkin-test-servera</module>
         <module>zipkin-test-serverb</module>
         <module>zipkin-test-servicec</module>
+        <module>zipkin-test-serviced</module>
     </modules>
 
     <artifactId>zipkin-test-demo</artifactId>
