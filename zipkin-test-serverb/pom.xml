@@ -92,7 +92,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.zipkin.demo.servera.ZipkinServiceaApp</mainClass>
+                    <mainClass>com.zipkin.demo.servera.ZipkinServicebApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
